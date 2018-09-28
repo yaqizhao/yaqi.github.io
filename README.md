@@ -1,6 +1,7 @@
 https://cdn.rawgit.com/yaqizhao/yaqi.github.io/6153d012/BetterMotherFuckingWebsite.html
 
-THP Semaine 0 Rendu 
+PopUp marche bien en Chrome. 
+PopUp ne marche pas en Safari, il se trouve en bas de page, je sais pas comment corriger cela.
 
 Authors
 Yaqi ZHAO
